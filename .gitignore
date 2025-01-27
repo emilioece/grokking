@@ -1,0 +1,10 @@
+# env files 
+.env 
+
+# venv 
+\venv
+
+# vim files 
+*~
+*swp
+
